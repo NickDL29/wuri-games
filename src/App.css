@@ -1,0 +1,7 @@
+body{
+    background-color: #121826;
+    color: white;
+}
+:root {
+    --color-secondary: rgb(132, 194, 255);
+  }

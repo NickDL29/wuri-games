@@ -1,0 +1,29 @@
+.work-container{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    padding: 2rem 2rem;
+    
+    .cards{
+        margin: 1rem 1rem;
+    }
+    
+}
+.work-main{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+    span{
+        display:block;
+        width: 60% ; /*or whatever width you want the effect of <hr>*/
+        border-top: 2px solid #ffffff;
+        align-self: center;
+    }
+
+    h1{
+        align-self: center;
+    }
+}

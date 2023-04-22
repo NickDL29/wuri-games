@@ -1,0 +1,19 @@
+.step-container{
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    align-items: center;
+    justify-content: center;
+
+    .ste-container-2{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.createGame{
+    border-radius: 25px;
+    background-color: rgb(125, 251, 255);
+    padding: 3rem 3rem;
+    color: black;
+}
